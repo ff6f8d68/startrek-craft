@@ -5,8 +5,6 @@ startrek craft is a mod about space, exploration, and resources
 
 <b>Please be aware Sponge compatibility issues may never be fixed.</b>
 
-Discord link: https://discord.gg/BbBUmbX
-
 Current Features:
 
 

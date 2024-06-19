@@ -1,4 +1,4 @@
-# startrek-craft
+# startrek craft
 startrek craft is a mod about space, exploration, and resources
 
 <b>startrek craft does not support anything other than Forge at this point</b> 

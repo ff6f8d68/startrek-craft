@@ -1,7 +1,7 @@
-# AdvancedRocketry
-Advanced Rocketry is a mod about space, exploration, and resources
+# startrek-craft
+startrek craft is a mod about space, exploration, and resources
 
-<b>Advanced Rocketry does not support anything other than Forge at this point - be it Fabric (for 1.13+) or Sponge or similar for 1.12</b> 
+<b>startrek craft does not support anything other than Forge at this point</b> 
 
 <b>Please be aware Sponge compatibility issues may never be fixed.</b>
 
